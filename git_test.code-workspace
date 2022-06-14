@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../git_test"
+		},
+		{
+			"path": "../../OdinProject/html-boilerplate"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
