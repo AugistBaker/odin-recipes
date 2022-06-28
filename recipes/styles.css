@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.funny{
+width: fit-content;
+height: fit-content;
+background-color: honeydew;
+padding: 10px;
+border: 5px solid teal;
+font-size: 36px;
+box-sizing: border-box;
+}
